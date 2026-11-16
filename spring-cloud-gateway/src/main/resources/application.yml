@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id : r1
+          uri : lb://CUSTOMER-SERVICE
+          predicates :
+            - Path = /customers/**
+        - id : r2
+          uri : lb://INVENTORYY-SERVICE
+          predicates:
+            - Path = /products/**
+    discovery:
+      enabled : false
+  server:
+    port : 8080

@@ -1,0 +1,10 @@
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\BillingServiceApplication.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\entity\Bill.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\entity\Customer.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\entity\Product.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\entity\ProductItem.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\repository\BillRepository.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\repository\ProductItemRepository.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\service\BillRestController.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\service\CustomerService.java
+C:\Users\user\Documents\AtelierSOA\tp5\Billing-service\src\main\java\com\example\billingservice\service\InventoryService.java
